@@ -33,7 +33,6 @@ export default function List() {
                             return val
                         }
                     }).map((val, key) => {
-
                         return <ListGroup.Item key={key}><Link
                             to={"/List/" + val.id}>{val.first_name} {val.last_name}</Link></ListGroup.Item>
                     })}
