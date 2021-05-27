@@ -1,0 +1,128 @@
+{
+    "home.lng-ru": "Russian",
+    "home.lng-en": "Englsih",
+    "home.main": "Home",
+    "home.list": "List of writers",
+    "home.more": "More info",
+    "header.poets":"Writers of Belarus",
+    "header.about":"The purpose of this portal is to increase the level of knowledge about Belarusian poets",
+    
+    "writerDay.wd": "Деятель дня",
+    "writerDay.about": "Здесь вы кратко можете ознакомиться с деятелем дня",
+
+    "developers.team":"Development Team",
+    "developers.about":"A short description of who developed the site",
+    "developers.egor":"Egor Voytko",
+    "developers.ilya":"Ilya Labovich",
+    "developers.valera":"Valera Goreglyad",
+
+    "writerByDay.name":"Writer of the day",
+    "writerByDay.about":"Here you can briefly get acquainted with the person of the day",
+
+    "find.f":"Find",
+
+    "t.name":"Name:",
+    "t.years-life":"Years of life:",
+    "t.brief-description":"Brief description:",
+    "t.birthday":"Birthday",
+    "t.activity":"Activity",
+    "t.death":"Day of death",
+    "t.awards":"Awards",
+    "t.gallery":"Gallery",
+
+    "Kolas.name": "Jakub Kolas",
+    "Kolas.life-time": "November 3, 1882 – August 13, 1956",
+    "Kolas.description":  "Yakub Kolas-Belarusian Soviet writer, playwright, poet and translator, public figure. One of the classics and founders of the new Belarusian literature. People's Poet of the Belarusian SSR. Academician of the Academy of Sciences of the Belarusian SSR. Member of the Joint Venture of the USSR. Honored Scientist of the Belarusian SSR. Member of the CPSU since 1945.",
+
+    "Kolas.date1":"October 22 (November 3), 1882",
+    "Kolas.date1-description":"He was born in the village of Akinchitsy (now the territory of the city of Stolbtsy, Stolbtsovsky district, Minsk region of Belarus), in the Orthodox family of forester Mikhail Kazimirovich (Mikhail) Mitskevich and the housewife Anna Yuryevna Losik. My paternal ancestors were Catholic.",
+    "Kolas.date2-description":"He graduated from the national school, and in 1902 from the Nesvizh Teachers ' Seminary. He worked as a teacher in the Pinsk region (1902-1906). In 1906, the first publication was the poem The Native Land in the Belarusian newspaper Nasha Dolya. In 1907, he headed the literary department of the Belarusian newspaper Nasha Niva in Vilna.",
+    "Kolas.date2-description1":"For participating in the organization of an illegal teachers ' congress, he was sentenced to prison, which he served in the Minsk prison (1908-1911). In 1912-1914, he taught in Pinsk. Here, in 1914, his eldest son Daniel was born, who later became the creator and first director of the museum of his father.",
+    "Kolas.date3":"August 13, 1956",
+    "Kolas.date3-description":"At the end of his life, he was ill a lot and often, in particular, he suffered from 26 pneumonia. Jakub Kolas died suddenly on August 13, 1956. He was buried at the Military Cemetery in Minsk.",
+    
+    "Kupale.name": "Jakub Kolas",
+    "Kupale.life-time": "November 3, 1882 – August 13, 1956",
+    "Kupale.description":  "Yakub Kolas-Belarusian Soviet writer, playwright, poet and translator, public figure. One of the classics and founders of the new Belarusian literature. People's Poet of the Belarusian SSR. Academician of the Academy of Sciences of the Belarusian SSR. Member of the Joint Venture of the USSR. Honored Scientist of the Belarusian SSR. Member of the CPSU since 1945.",
+
+    "Kupale.date1":"October 22 (November 3), 1882",
+    "Kupale.date1-description":"He was born on June 25 (July 7), 1882 in the village of Vyazynka (now Molodechno district, Minsk region of Belarus) in the Belarusian Catholic family of Dominik Onufrievich Lutsevich and Benigna Ivanovna Lutsevich (nee Volosevich).",
+    "Kupale.date2-description":"He graduated from the national school, and in 1902 from the Nesvizh Teachers ' Seminary. He worked as a teacher in the Pinsk region (1902-1906). In 1906, the first publication was the poem The Native Land in the Belarusian newspaper Nasha Dolya. In 1907, he headed the literary department of the Belarusian newspaper Nasha Niva in Vilna.",
+    "Kupale.date2-description1":"For participating in the organization of an illegal teachers ' congress, he was sentenced to prison, which he served in the Minsk prison (1908-1911). In 1912-1914, he taught in Pinsk. Here, in 1914, his eldest son Daniel was born, who later became the creator and first director of the museum of his father.",
+    "Kupale.date3":"August 13, 1956",
+    "Kupale.date3-description":"At the end of his life, he was ill a lot and often, in particular, he suffered from 26 pneumonia. Jakub Kolas died suddenly on August 13, 1956. He was buried at the Military Cemetery in Minsk.",
+
+    "Ryhor.name": " Rygor Borodulin ",
+    "Ryhor.life-time": "February 24, 1935 – March 2, 2014",
+    "Ryhor.description": " Ryhor Borodulin is a Soviet and Belarusian poet, essayist, editor, and translator. People's Poet of Belarus (1992).",
+
+    "Ryhor.date1":"February 24, 1935",
+    "Ryhor.date1-description":" Grigory Borodulin was born on February 24, 1935 on the farm Veresovka (the official name of the farm was Gorodok-2, now it is the north-western outskirts of the village. In 1937, the farm was liquidated, and the family was moved to Ushachi. 4 year), mother Akulina Andreevna Borodulina (1909-1971). The poet's maternal grandfather, Andrei Galvins, was an ethnic Latvian.",
+    "Ryhor.date2-description":" He began publishing in 1953, and his first poems were published in the newspaper  Krasnaya Smena . The first collection of poetry A Month over the steppe (belor. Maladzik nad stepam) was released in 1959. In total, about 70 collections of poetry (including collections of satire and humor, as well as poems for children), critical articles, essays, and translations were published. Books of the poet's selected poems were published twice (1984, 1996-2002). The collected works of Borodulin were published (five volumes were announced, but only four were published). In 2006, the poet's candidacy was included in the list of nominees for the Nobel Prize in Literature.",
+    "Ryhor.date2-description1":"Borodulin also owns a significant number of poetic translations into Belarusian — including Words about Igor's Regiment (1986), books by Federico Garcia Lorca (The Blue Bell of Grenada, 1975), Gabriela Mistral (Vetrolist, 1984), Karol Wojtyla, Rubai by Omar Khayyam, works by Shakespeare, Byron, Neruda, Mickiewicz, Yesenin, Khizri Asadulayev (Goro, 2009), etc..",
+    "Ryhor.date3":"March 2, 2014",
+    "Ryhor.date3-description":" At the end of his life, he was ill a lot and often, in particular, he suffered from 26 pneumonia. Jakub Kolas died suddenly on August 13, 1956. He was buried at the Military Cemetery in Minsk.",
+ 
+    "Zuenok.name": " Vasily Zuenok ",
+    "Zuenok.life-time": "June 3, 1935 – ...",
+    "Zuenok.description": "Vasily Zuenok — Belarusian-Soviet writer, playwright, poet and translator, public figure. People's Poet of Belarus.",
+
+    "Zuenok.date1":"June 3, 1935",
+    "Zuenok.date1-description":"Was born in a peasant family in the village of Machulishche, Krupsky district, Minsk region, Belarus.",
+    "Zuenok.date2-description":" He made his debut in 1954. The work of V. Zuenka has a wide genre range: from poetic Sharjah to a poem. Translates into Belarusian from Russian, Ukrainian, Bulgarian, Polish, Slovak, and Serbian. The book of selected translations nichki syami nyabes (Minsk, 1992) was published.",
+    "Zuenok.date2-description1": "V. Zuenka's poems were translated into English, Bulgarian, Polish, Slovak and other languages. Together with R. Baradulina, m translated a book of poems by U. Luchuk of the Lake-Bulldozer (1978).",
+    "Zuenok.date3-description":" Lenin Komsomolai Prize of the Belarusian SSR (1974) for the book of poems Syaliba. State Prize of the Belarusian SSR named after Yanka Kupala (1982) for the poem Maychanne grass. Order of the Red Banner of Labor (1989).",
+
+    "Kuleshov.name": "Arkady Aleksandrovich Kuleshov",
+    "Kuleshov.life-time": "January 24, 1914 - February 4, 1978",
+    "Kuleshov.description": "Arkady Aleksandrovich Kuleshov - Belarusian Soviet poet and translator, screenwriter. People's poet of the BSSR, a member of the CPSU (b), a member of the USSR Writers' Union. ",
+
+    "Kuleshov.date1":"January 24, 1914",
+    "Kuleshov.date1-description":"Born on February 6, 1914 in the village of Samotevichi (now the Kostyukovichi district of the Mogilev region of Belarus) in a family of rural teachers.",
+    "Kuleshov.date2":"1945 - 1967",
+    "Kuleshov.date2-description":"In 1945-1946 he worked as editor-in-chief of the newspaper \"Literature and Art\". From 1946 to 1958 - head of the script department, in 1958 - 1967 - editor-in-chief of the Belarusfilm film studio. ",
+    "Kuleshov.date3":"4 февраля 1978 года",
+    "Kuleshov.date3-description":"Скончался ночью 4 февраля 1978 года в санатории города Несвиж Минской области. Похоронен в Минске на Восточном кладбище[2].\n\nВнуком Кулешова иногда называет себя Лёва Би-2",
+
+    "Dunin.name": "Vintsent Dunin-Marcinkevich",
+    "Dunin.life-time": "February 4, 1808-December 21, 1884",
+    "Dunin.description": "Vintsent Dunin-Martsinkevich is a Belarusian writer and playwright, a classic of Belarusian literature.",
+
+    "Dunin.date1":"February 4, 1808",
+    "Dunin.date1-description":"He was born in the folvarka Panyushkovichi of the Bobruisk district of the Minsk province in a gentry family.Sestrentsevich's niece Ludovika Rykachevskaya was the first wife of Vikenty Marcinkevich's father-Jan, and Vikenty himself was a son from his second marriage. Until 1832, no document mentions the pridomov Dunin, all the documents of his father, mother, brother and other relatives mention only the surname Marcinkevich.",
+    "Dunin.date2-description":"He wrote in Polish and Belarusian. In the center of his artistic sketches is the Belarusian village, its way of life. Special attention is paid to Belarusian folklore. The work of V. Dunin-Marcinkevich is characterized by elements of sentimentalism.Formal artistic means are not very diverse.",
+    "Dunin.date3":"December 21, 1884",
+    "Dunin.date3-description":"The exile of his daughter Camilla, the arrest of Dunin-Marcinkevich himself from 1864 to 1865, monetary fines, strict police supervision after his release from prison — all this fell heavily on the writer. Dunin-Marcinkevich's theatrical activity did not reach its true peak due to unfavorable external conditions, but it served as a foundation for the further development of Belarusian drama and professional theater. He died in 1884.",
+
+    "Mazgo.name": "Vladimir Minovich Mazgo",
+    "Mazgo.life-time": "5 марта 1959 г.",
+    "Mazgo.description": "Born on March 5, 1959 in the city of Zelva, Grodno region. In 1964-1968 he lived with his parents in the Kemerovo region. In 1976 he entered the philological faculty of the Belarusian State University (graduated in absentia in 1985). He served in the Soviet Army (1979-1981) ), was a correspondent for the large-circulation newspaper \"Integral\", an employee of the literary and drama programs of the Belarusian television. In 1984-2002, he was an editor, head of the editorial board of literature for primary school age at the publishing house \"Yunost\". Then he worked at the publishing house \"Art_literature\", in the magazines \"Rainbow \",\" Flame \". Since 2014 - Deputy Editor-in-Chief of the\" Neman \"magazine.",
+
+    "Mazgo.date1":"1972 year",
+    "Mazgo.date1-description":"It began to be published in 1972 in the Pratsa newspaper of the Zelva region",
+    "Mazgo.date2":" 1984-2002",
+    "Mazgo.date2-description":"In 1984-2002 he was an editor, head of the editorial board of literature for primary school age at the Yunost publishing house.",
+    "Mazgo.date3":"Since 2014",
+    "Mazgo.date3-description":"Deputy editor-in-chief of the \"Neman\" magazine.",
+
+    "Yagoudik.name": "Vladimir Ivanovich Yagovdik",
+    "Yagoudik.life-time": "February 14, 1956",
+    "Yagoudik.description": "Vladimir Ivanovich Yagovdik (Yagavdik) (Belorussian. Uladzіmіr Іvanavich Yagoўdzіk (Yagaўdzіk); born in 1956) - Belarusian writer. Member of the Union of Writers of the USSR (1985). Yankee Mavr Prize (1994). ",
+    "Yagoudik.date1": "1972",
+    "Yagoudik.date1-description": "He made his poetry debut in 1972 (newspaper\" Grodnenskaya Pravda \").",
+    "Yagoudik.date2": "1978-1982",
+    "Yagoudik.date2-description": "1978-1982 he was a correspondent for the Brest regional newspaper\" Zarya \"",
+    "Yagoudik.date3": "In 1997-2003",
+    "Yagoudik.date3-description": "editor-in-chief of the children's magazine\" Byarozka \"",
+
+    "Svayak.name": "Kazimir Svoyak",
+    "Svayak.life-time": "February 19, 1890 - May 6, 1926",
+    "Svayak.description": "Kazimir Svoyak (Belorussian Kazimer Svayak, real name Konstantin Matveyevich Stepovich (Belorussian Kanstantsin Stapovich, Polish Konstanty Stepowicz; February 19, 1890, village of Barani, Klyushchansky parish, Sventsiansky district, May 6, 1926, Vilno) - Belarusian Catholic priest, public figure, poet. ",
+
+    "Svayak.date1": "February 19, 1890",
+    "Svayak.date1-description": "Born on February 19, 1890 in the village of Barani, Klyushchansky parish, Sventsiansky district, Vilna province [2]. The family had six children, including brothers Albin Stepovich and Bernard Stepovich. Father Matvey Stepovich had half a drag The family lived in a small house. Later, the local landowner Svolken, for whom his father served as a forester, allocated a plot of land and forest for the construction of a new house. ",
+    "Svayak.date2": "1905",
+    "Svayak.date2-description": "In 1905, Kazimir Svoyak graduated from school in Sventsiany (modern Svyanchenko).",
+    "Svayak.date3": "Autumn 1922",
+    "Svayak.date3-description": "In the fall of 1922, Stepovich's health deteriorated, and in the fall of 1923 - the spring of 1924 he was again treated in Zakopane. In 1924, a collection of his poetry\" My Lyra \"was published in Vilna. Winters 1924-1925 and He also spent 1925-1926 in Zakopane.In the winter of 1926, fearing to die in a foreign land, asks brother Albin and priest Adam Stankevich to return him to Kluszczany. The funeral service took place the next day in the Church of St. Nicholas. He was buried in Vilna at the Ross cemetery, not far from the grave of Chyurlionis. The choir of the Vilna Belarusian gymnasium [be] sang religious chants in Belarusian. "
+}

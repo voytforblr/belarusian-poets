@@ -1,0 +1,13 @@
+.container {
+    padding-top: 10px;
+}
+
+#search {
+    padding-bottom: 10px;
+}
+
+#btn-search {
+    border: none; 
+    outline: none; 
+    background-color: transparent
+}

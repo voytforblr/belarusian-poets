@@ -1,0 +1,42 @@
+#imgWriterDay {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+
+#description {
+    text-align: justify;
+}
+
+#aboutDevelopers {
+    background-color: white;
+}
+
+#img-develop {
+    width: 100px;
+    padding: 20px 20px 20px 20px;
+}
+
+a {
+    color: black;
+}
+
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:50%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+.btn-lng {
+    background-color: transparent;
+    border: none;
+}

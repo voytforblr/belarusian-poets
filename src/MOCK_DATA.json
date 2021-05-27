@@ -1,0 +1,110 @@
+[
+  {
+    "id": "0",
+    "first_name": "Якуб",
+    "last_name": "Колас",
+    "link": "/Kolas",
+    "name": "Kolas",
+    "imageWriter": "/Kolas.jpg",
+    "imageBook1": "/Kolas_1.jpg",
+    "imageBook2": "/Kolas_2.jpg",
+    "youtubeLink": "https://www.youtube.com/embed/GNvCm0tK9gw",
+    "mapsLink": "https://www.google.com/maps/embed/v1/place?key=AIzaSyA0s1a7phLN0iaD6-UE7m4qP-z21pH0eSc&q=Belarus+Stolbtsy"
+  },
+  {
+    "id": "1",
+    "first_name": "Янка",
+    "last_name": "Купала",
+    "link": "/Kupale",
+    "name": "Kupale",
+    "imageWriter": "/Kupale.jpg",
+    "imageBook1": "/Kupale.jpg",
+    "imageBook2": "/Kupale.jpg",
+    "youtubeLink": "https://www.youtube.com/embed/JHgphHjmc-Q",
+    "mapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d18712.1362099627!2d27.174959338884157!3d54.10890157932545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dbec59040878cd%3A0x89c684e28491971f!2z0JLRj9C30YvQvdC60LA!5e0!3m2!1sru!2sby!4v1620054277576!5m2!1sru!2sby"
+  },
+  {
+    "id": "2",
+    "first_name": "Рыгор",
+    "last_name": "Бородулин",
+    "link": "/Ryhor",
+    "name": "Ryhor",
+    "imageWriter": "/Ryhor.jpg",
+    "imageBook1": "/Ryhor_1.jpg",
+    "imageBook2": "/Ryhor_2.jpg",
+    "youtubeLink": "https://www.youtube.com/embed/xXXaSXWLpsc",
+    "mapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d251737.2790295673!2d28.68805438226472!3d55.2841488853343!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46c4c7767edce15d%3A0xbdd517ba1ca8fc55!2z0KLQuNGF0L7QvdGP0YLRiw!5e0!3m2!1sru!2sby!4v1620057263901!5m2!1sru!2sby"
+  },
+  {
+    "id": "3",
+    "first_name": "Василий",
+    "last_name": "Зуёнок",
+    "link": "/Zuenok",
+    "name": "Zuenok",
+    "imageWriter": "/Zuenok.jpg",
+    "imageBook1": "/Zuenok_1.jpg",
+    "imageBook2": "/Zuenok_2.jpg",
+    "youtubeLink": "https://www.youtube.com/embed/sr8bmkVRe0w",
+    "mapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d18859.56219313109!2d27.572318288084496!3d53.78156207462974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dbd3f4c5d4bdf7%3A0xca144f652e1a0242!2z0JzQsNGH0YPQu9C40YnQuA!5e0!3m2!1sru!2sby!4v1620057752687!5m2!1sru!2sby"
+  },
+  {
+    "id": "4",
+    "first_name": "Викентий",
+    "last_name": "Дунин-Марцинкевич",
+    "link": "/Dunin",
+    "name": "Dunin",
+    "imageWriter": "/Dunin.jpg",
+    "imageBook1": "/Dunin_1.jpg",
+    "imageBook2": "/Dunin_2.jpg",
+    "youtubeLink": "https://www.youtube.com/embed/NzDAnbltnPA",
+    "mapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9553.88632233111!2d29.167361027641505!3d53.22732235417633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46d73458aeecdb69%3A0x764fc680011e0a60!2z0J_QsNC90Y7RiNC60L7QstC40YfQuCwg0JHQtdC70LDRgNGD0YHRjA!5e0!3m2!1sru!2sus!4v1620052558828!5m2!1sru!2sus"
+  },
+  {
+    "id": "5",
+    "first_name": "Аркадий",
+    "last_name": "Кулешов",
+    "link": "/Kuleshov",
+    "name": "Kuleshov",
+    "imageWriter": "/Kuleshov.jpg",
+    "imageBook1": "/Kuleshov_1.jpg",
+    "imageBook2": "/Kuleshov_2.jpg",
+    "youtubeLink": "https://www.youtube.com/embed/isJFJY95eRY",
+    "mapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9541.623199550888!2d32.071870725347665!3d53.282265481182264!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46d24c48dd100f15%3A0x90990ac3553bd74a!2z0J3QvtCy0YvQtSDQodCw0LzQvtGC0LXQstC40YfQuA!5e0!3m2!1sru!2sby!4v1621772429094!5m2!1sru!2sby"
+  },
+  {
+    "id": "6",
+    "first_name": "Владимир",
+    "last_name": "Мазго",
+    "link": "/Mazgo",
+    "name": "Mazgo",
+    "imageWriter": "/Mazgo.jpg",
+    "imageBook1": "/Mazgo_1.jpg",
+    "imageBook2": "/Mazgo_2.jpg",
+    "youtubeLink": "https://www.youtube.com/embed/02pAplxVeTE",
+    "mapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d38283.36859988144!2d24.770252018114324!3d53.15128931417132!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46df721379e64451%3A0xf59ab827e69dfbfb!2z0JfQtdC70YzQstCw!5e0!3m2!1sru!2sby!4v1621772291379!5m2!1sru!2sby"
+  },
+  {
+    "id": "7",
+    "first_name": "Владимир",
+    "last_name": "Яговдик",
+    "link": "/Yagoudik",
+    "name": "Yagoudik",
+    "imageWriter": "/Yagoudik.jpg",
+    "imageBook1": "/Yagoudik_1.jpg",
+    "imageBook2": "/Yagoudik_2.jpg",
+    "youtubeLink": "https://www.youtube.com/embed/l9YQ-ilZq2M",
+    "mapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d37087.93732644181!2d30.270464581155395!3d54.48065093937992!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46d01d8ed4ae265b%3A0x1c878eba7b869531!2z0JHQsNGA0LDQvdGM!5e0!3m2!1sru!2sby!4v1621773388511!5m2!1sru!2sby"
+  },
+  {
+    "id": "8",
+    "first_name": "Казимир",
+    "last_name": "Сваяк",
+    "link": "/Svayak",
+    "name": "Svayak",
+    "imageWriter": "/Svayak.jpg",
+    "imageBook1": "/Svayak_1.jpg",
+    "imageBook2": "/Svayak_2.jpg",
+    "youtubeLink": "https://www.youtube.com/embed/WMOaVQd7Dyc",
+    "mapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d18859.56219313109!2d27.572318288084496!3d53.78156207462974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dbd3f4c5d4bdf7%3A0xca144f652e1a0242!2z0JzQsNGH0YPQu9C40YnQuA!5e0!3m2!1sru!2sby!4v1620057752687!5m2!1sru!2sby"
+  }
+]
